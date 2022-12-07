@@ -1,2 +1,2 @@
 # post-app
-A simple post app built in Laravel
+A post app built in Laravel 
