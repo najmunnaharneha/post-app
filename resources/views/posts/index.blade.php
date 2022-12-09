@@ -27,6 +27,7 @@
                <p mb-2>{{ $post->body }}</p>
              </div>
          @endforeach
+         {{ $posts->links() }}
       @else
          There are no post
       @endif
